@@ -1,0 +1,31 @@
+CREATE TABLE mytable(
+   Immatriculation VARCHAR(17) NOT NULL PRIMARY KEY
+);
+INSERT INTO mytable(Immatriculation) VALUES ('08604-12-06');
+INSERT INTO mytable(Immatriculation) VALUES ('05023-1-06');
+INSERT INTO mytable(Immatriculation) VALUES ('18469-A-33');
+INSERT INTO mytable(Immatriculation) VALUES ('33-015115');
+INSERT INTO mytable(Immatriculation) VALUES ('50103-A-33');
+INSERT INTO mytable(Immatriculation) VALUES ('50104-A-33');
+INSERT INTO mytable(Immatriculation) VALUES ('54984-A-33');
+INSERT INTO mytable(Immatriculation) VALUES ('5Y4AG05YX9A007583');
+INSERT INTO mytable(Immatriculation) VALUES ('RK1AH34W0C0001172');
+INSERT INTO mytable(Immatriculation) VALUES ('VG5SA451000012536');
+INSERT INTO mytable(Immatriculation) VALUES ('45288-E-06');
+INSERT INTO mytable(Immatriculation) VALUES ('79459-B-01');
+INSERT INTO mytable(Immatriculation) VALUES ('79460-B-01');
+INSERT INTO mytable(Immatriculation) VALUES ('50920-D-06');
+INSERT INTO mytable(Immatriculation) VALUES ('.WW502153');
+INSERT INTO mytable(Immatriculation) VALUES ('74036-D-06');
+INSERT INTO mytable(Immatriculation) VALUES ('33-015114');
+INSERT INTO mytable(Immatriculation) VALUES ('33-015116');
+INSERT INTO mytable(Immatriculation) VALUES ('66511-B-40');
+INSERT INTO mytable(Immatriculation) VALUES ('WW925768');
+INSERT INTO mytable(Immatriculation) VALUES ('28620-B-40');
+INSERT INTO mytable(Immatriculation) VALUES ('SC108600191');
+INSERT INTO mytable(Immatriculation) VALUES ('98712-A-40');
+INSERT INTO mytable(Immatriculation) VALUES ('98713-A-40');
+INSERT INTO mytable(Immatriculation) VALUES ('02900-A-41');
+INSERT INTO mytable(Immatriculation) VALUES ('02640-A-41');
+INSERT INTO mytable(Immatriculation) VALUES ('55804-A-40');
+INSERT INTO mytable(Immatriculation) VALUES ('63409-A-40');
